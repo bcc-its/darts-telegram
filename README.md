@@ -23,3 +23,5 @@ npm run start
 ```
 
 This will start webpack and opens the game in "develop" mode in your browser at http://localhost:3000/
+
+If an error message appears when the game launches, please add ?q=123 to the url
